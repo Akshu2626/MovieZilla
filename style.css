@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: gilroy;
+    font-family: sans-serif;
     list-style: none;
     text-decoration: none;
     scroll-padding-top: 2rem;
@@ -144,6 +144,7 @@ header {
 
 
 .home-text {
+    
     z-index: 1000;
     padding: 290px 150px;
 }
